@@ -1,0 +1,22 @@
+.info-login{
+    margin:0 0 15px 10px;
+    font-family: fantasy;
+    font-size: 1.9rem;    
+}
+
+.card-title1{
+    color: white;
+}
+
+.card-title2{
+    color: white;
+}
+
+.label{
+    color: white;
+}
+
+.cardshadow{
+    background-color: black;
+    box-shadow: rgb(58, 136, 252, 0.5) 0px 7px 29px 0px;
+}
